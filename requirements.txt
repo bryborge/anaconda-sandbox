@@ -1,0 +1,25 @@
+# Core data science libraries (already included in Anaconda)
+# pandas
+# numpy
+# matplotlib
+# seaborn
+# scikit-learn
+# jupyter
+
+# Additional packages you might want
+plotly>=5.0.0
+dash>=2.0.0
+streamlit>=1.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+requests>=2.25.0
+python-dotenv>=0.19.0
+
+# Development tools
+black>=21.0.0
+flake8>=3.9.0
+pytest>=6.0.0
+
+# Jupyter extensions
+jupyter-contrib-nbextensions
+jupyter-nbextensions-configurator
